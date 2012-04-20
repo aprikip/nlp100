@@ -1,7 +1,8 @@
 #!/usr/bin/env python
+# -*- coding: utf-8 -*-
 
 import sys
 import string
 
-print open( sys.stdin, "r" ).read.replace( "\t", " " )
-
+for line in sys.stdin:
+    print line.replace( "\t", " " ),
