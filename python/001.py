@@ -1,6 +1,4 @@
 #!/usr/bin/env python
 
-import fileinput
-for line in fileinput.input():
-    pass
-print fileinput.lineno()
+import sys
+print len( open( sys.stdin, "rU" ).readlines() )
