@@ -11,3 +11,5 @@ end
 #r[0].zip( r[1] ).each do |a,b|
 #  print "#{a}\t#{b}\n"
 #end
+
+# Those two methods seem to be almost same.

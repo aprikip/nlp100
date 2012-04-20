@@ -1,4 +1,5 @@
 #!/usr/local/bin/ruby19
+#
 
 f1 = open( "col1.txt", "w" )
 f2 = open( "col2.txt", "w" )
