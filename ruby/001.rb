@@ -1,3 +1,3 @@
-#!/usr/local/bin/ruby19
+#!/usr/bin/env ruby
 
 p STDIN.read.split( "\n" ).size

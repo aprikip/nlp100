@@ -16,7 +16,7 @@ Ruby language.  So here are codes in the both languages.
 
 Licence
 -------
-Copyright &copy; 2012 Aprikip
+Copyright &copy; 2012-13 Aprikip
 Distributed under the [MIT License][mit].
  
 [MIT]: http://www.opensource.org/licenses/mit-license.php

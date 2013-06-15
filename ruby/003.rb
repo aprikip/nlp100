@@ -1,4 +1,4 @@
-#!/usr/local/bin/ruby19
+#!/usr/bin/env ruby
 #
 
 f1 = open( "col1.txt", "w" )

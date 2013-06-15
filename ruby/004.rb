@@ -1,4 +1,4 @@
-#!/usr/local/bin/ruby19
+#!/usr/bin/env ruby
 
 r = Array.new
 r[0] = open( "col1.txt", "r" ).read.split( "\n" )

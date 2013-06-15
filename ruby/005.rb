@@ -1,4 +1,4 @@
-#!/usr/local/bin/ruby19
+#!/usr/bin/env ruby
 #
 
 exit if ARGV.size < 1

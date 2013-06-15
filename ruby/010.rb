@@ -1,4 +1,4 @@
-#!/usr/local/bin/ruby19
+#!/usr/bin/env ruby
 # -*- coding: utf-8 -*-
 
 freq = Hash.new( 0 )
